@@ -11,7 +11,7 @@ Telegram: [ra3wok](https://t.me/ra3wok)
 
 Примеры работ:
 
-- https://bus-max.ru/ сайт продажи билетов на автобус. Эквайринг с тинькоф. Фронт React + Redux, api на php,  cms WordPress, админка на базе adminLTE
+- https://bus-max.ru/ сайт продажи билетов на автобус. Эквайринг с тинькофф. Фронт React + Redux, api на php,  cms WordPress, админка на базе adminLTE
 - https://github.com/okb3wok/linkmarks  - система хранения ссылок. 
 - https://atlaskursk.ru/, https://art-komnata.ru/ - сайты визитки.   
 
