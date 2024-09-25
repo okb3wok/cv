@@ -24,7 +24,7 @@ Telegram: [ra3wok](https://t.me/ra3wok)
 MVP, разнообразные стеки и CMS
 
 ### Языки программирования
-  javascript, python, php (C, assemblers atmel)
+  javascript, python, php
 
 ### Базы данных
   MySQL
