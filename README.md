@@ -50,11 +50,13 @@ Linux, nginx, github actions
 ## ПРОЕКТЫ
 
 ### aviaautomatica.ru
+[aviaautomatica.ru](https://aviaautomatica.ru), 
 *Технологии:* Django, Redis, PostgreSQL, TailwindCSS, Webpack  
 *Краткое описание:* Разработка сайта для компании АО "Авиаавтоматика" им. В.В. Тарасова"
 
 
 ### bus-max.ru
+[bus-max.ru](https://bus-max.ru), 
 *Технологии:* React, Redux, JS, PHP, MySQL, Webpack, Wordpress, Bootstrap, AdminLTE  
 *Краткое описание:* Система продажи билетов. Интеграция эквайринга от Тинькофф
 
@@ -65,7 +67,7 @@ Linux, nginx, github actions
 *Краткое описание:* Сайты-визитки для мебельной компании и дизайн студии.
 
 ### Телеграм чат-бот
-*Пример:* [simple-telegram-bot]([https://github.com/okb3wok/art-komnata.ru](https://github.com/okb3wok/simple-telegram-bot)), 
+*Пример:* [simple-telegram-bot](https://github.com/okb3wok/simple-telegram-bot), 
 *Технологии:* HTML, CSS, Python, pyTelegramBotAPI, FastAPI, uvicorn, nginx 
 *Краткое описание:* Простой телеграм бот для поиска контактов сотрудников в exel файле.
 
