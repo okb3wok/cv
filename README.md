@@ -35,7 +35,9 @@ Telegram: [ra3wok](https://t.me/ra3wok)
 - MySQL, 
 - PostgreSQL
 - Swagger
-
+- Flask
+- FastAPI
+- 
 ### Инструменты:
 - PhpStorm
 - PyCharm
