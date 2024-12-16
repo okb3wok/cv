@@ -49,7 +49,7 @@ Linux, nginx, github actions
 
 ### aviaautomatica.ru
 *Технологии:* Django, Redis, PostgreSQL, TailwindCSS, Webpack  
-*Краткое описание:* Разработка веб-приложения для АО Авиаавтоматика
+*Краткое описание:* Разработка сайта для компании АО "Авиаавтоматика" им. В.В. Тарасова"
 
 
 ### bus-max.ru
