@@ -34,7 +34,7 @@ Telegram: [ra3wok](https://t.me/ra3wok)
 - Redis
 - MySQL, 
 - PostgreSQL
-- github actions
+- Swagger
 
 ### Инструменты:
 - PhpStorm
