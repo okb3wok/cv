@@ -64,12 +64,12 @@ Linux, nginx, github actions
 ### Cайты - визитки
 *Примеры:* [art-komnata](https://github.com/okb3wok/art-komnata.ru), 
 [atlaskursk.ru](https://github.com/okb3wok/atlas)  
-*Технологии:* Webpack, SCSS, JS, Twig, PHP, MySQL
+*Технологии:* Webpack, SCSS, JS, Twig, PHP, MySQL  
 *Краткое описание:* Сайты-визитки для мебельной компании и дизайн студии.
 
 ### Телеграм чат-бот
 *Пример:* [simple-telegram-bot](https://github.com/okb3wok/simple-telegram-bot),   
-*Технологии:* HTML, CSS, Python, pyTelegramBotAPI, FastAPI, uvicorn, nginx 
+*Технологии:* HTML, CSS, Python, pyTelegramBotAPI, FastAPI, uvicorn, nginx  
 *Краткое описание:* Простой телеграм бот для поиска контактов сотрудников в exel файле.
 
 ## Опыт
